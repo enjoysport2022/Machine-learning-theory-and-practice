@@ -1,6 +1,5 @@
-# Machine-learning-theory-and-practice
-
-## 课程大纲
+# Machine-learning-theory-and-practice 
+# 机器学习理论和实践
 
 ### 环境配置
 ### 数据读取
@@ -9,7 +8,7 @@
 ### 单模型
 - 线性回归
 - 逻辑回归
-- 决策树
+- 决策树：https://www.bilibili.com/video/BV1oy4y1L7xW/
 - 神经网络
 - 支持向量机
 - 朴素贝叶斯
@@ -18,8 +17,4 @@
 - Boosting
 - Stacking
 
-
-## b站视频链接
-```
-决策树模型: https://www.bilibili.com/video/BV1oy4y1L7xW/
-```
+公众号：DataXing
