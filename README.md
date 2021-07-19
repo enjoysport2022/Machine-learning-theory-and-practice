@@ -1,6 +1,25 @@
 # Machine-learning-theory-and-practice
 
-## 视频链接
+## 课程大纲
+
+### 环境配置
+### 数据读取
+### 数据预处理
+### 特征工程
+### 单模型
+- 线性回归
+- 逻辑回归
+- 决策树
+- 神经网络
+- 支持向量机
+- 朴素贝叶斯
+### 集成学习
+- Bagging
+- Boosting
+- Stacking
+
+
+## b站视频链接
 ```
 决策树模型: https://www.bilibili.com/video/BV1oy4y1L7xW/
 ```
